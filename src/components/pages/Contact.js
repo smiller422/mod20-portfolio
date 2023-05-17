@@ -1,5 +1,6 @@
 import React from 'react';
 import ContactForm from '../ContactForm';
+import Footer from "../footer/index.js";
 
 export default function Contact() {
   return (
@@ -9,6 +10,7 @@ export default function Contact() {
        I look forward to hearing from you!
       </p>
       </div>
+      <Footer />
     </div>
   );
 }

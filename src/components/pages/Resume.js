@@ -1,7 +1,9 @@
 import React from 'react';
+import Footer from "../footer/index.js";
 
 export default function Resume() {
   return (
+    <div>
     <div className= "h-screen bg-slate-200">
       <div>
       <p>
@@ -13,6 +15,9 @@ export default function Resume() {
           </li>
         </ul>
       </div>
+    
+    </div>
+    <Footer />
     </div>
   );
 }

@@ -1,8 +1,9 @@
 import React from 'react';
 import headphone from "../../image/headphone.jpg";
-
+import Footer from "../footer/index.js";
 export default function About() {
   return (
+    <div>
     <div className="h-screen bg-purple-200 flex">
       <div className="w-1/2">
         <img className="object-cover w-full h-full" src={headphone} alt="headphone" />
@@ -13,6 +14,9 @@ export default function About() {
         
         </p>
       </div>
+    
+    </div>
+    <Footer />
     </div>
   );
 }
