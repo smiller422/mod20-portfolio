@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/mod20-portfolio/static/css/main.a4407a7b.css",
+    "main.js": "/mod20-portfolio/static/js/main.7cf84f6d.js",
+    "static/media/abedsderm.png": "/mod20-portfolio/static/media/abedsderm.3d885502893731bdface.png",
+    "static/media/HomePagePhoto.jpg": "/mod20-portfolio/static/media/HomePagePhoto.944e3266341e44808fc9.jpg",
+    "static/media/animalfan.png": "/mod20-portfolio/static/media/animalfan.5e18b7b4691e390f1961.png",
+    "static/media/headphone.jpg": "/mod20-portfolio/static/media/headphone.1515f6257193a9ce64c8.jpg",
+    "static/media/pizzasite.png": "/mod20-portfolio/static/media/pizzasite.521486d522c91bf370c3.png",
+    "index.html": "/mod20-portfolio/index.html",
+    "main.a4407a7b.css.map": "/mod20-portfolio/static/css/main.a4407a7b.css.map",
+    "main.7cf84f6d.js.map": "/mod20-portfolio/static/js/main.7cf84f6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4407a7b.css",
+    "static/js/main.7cf84f6d.js"
+  ]
+}
